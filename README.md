@@ -15,7 +15,7 @@ La Alianza Rebelde interceptó una base de datos crítica sobre recursos, naves 
 
 | Entregable | Link |
 |---|---|
-| 📊 Dashboard público | **[PEGA_AQUI_TU_LINK_DE_NETLIFY_O_GITHUB_PAGES]** |
+| 📊 Dashboard público | **[https://super-cucurucho-bcef04.netlify.app/]** |
 | 🎞️ Presentación (5 slides) | [`Consejo_Jedi_Logistica_Galactica.pptx`](./Consejo_Jedi_Logistica_Galactica.pptx) |
 | 🗄️ Script de BigQuery | [`bigquery_setup.sql`](./bigquery_setup.sql) |
 | 📁 Datos limpios | [`people.csv`](./people.csv) · [`planets.csv`](./planets.csv) · [`starships.csv`](./starships.csv) |
