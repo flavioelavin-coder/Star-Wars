@@ -90,5 +90,5 @@ BigQuery — capa staging (tipos, joins, normalización de texto)
 
 ---
 
-*Preparado por: BI Analyst, Inteligencia de la Alianza Rebelde* 🛰️
+*Preparado por: Flavio Lavīn, Inteligencia de la Alianza Rebelde* 🛰️
 
