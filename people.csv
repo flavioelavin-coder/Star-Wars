@@ -1,0 +1,83 @@
+id,name,gender,birth_year,height,mass,homeworld_id,homeworld_name,species,is_pilot,n_starships_piloted
+1,Luke Skywalker,male,19BBY,172,77,1,Tatooine,Human,1,2
+2,C-3PO,n/a,112BBY,167,75,1,Tatooine,Droid,0,0
+3,R2-D2,n/a,33BBY,96,32,8,Naboo,Droid,0,0
+4,Darth Vader,male,41.9BBY,202,136,1,Tatooine,Human,1,1
+5,Leia Organa,female,19BBY,150,49,2,Alderaan,Human,0,0
+6,Owen Lars,male,52BBY,178,120,1,Tatooine,Human,0,0
+7,Beru Whitesun lars,female,47BBY,165,75,1,Tatooine,Human,0,0
+8,R5-D4,n/a,unknown,97,32,1,Tatooine,Droid,0,0
+9,Biggs Darklighter,male,24BBY,183,84,1,Tatooine,Human,1,1
+10,Obi-Wan Kenobi,male,57BBY,182,77,20,Stewjon,Human,1,5
+11,Anakin Skywalker,male,41.9BBY,188,84,1,Tatooine,Human,1,3
+12,Wilhuff Tarkin,male,64BBY,180,unknown,21,Eriadu,Human,0,0
+13,Chewbacca,male,200BBY,228,112,14,Kashyyyk,Wookie,1,2
+14,Han Solo,male,29BBY,180,80,22,Corellia,Human,1,2
+15,Greedo,male,44BBY,173,74,23,Rodia,Rodian,0,0
+16,Jabba Desilijic Tiure,hermaphrodite,600BBY,175,"1,358",24,Nal Hutta,Hutt,0,0
+18,Wedge Antilles,male,21BBY,170,77,22,Corellia,Human,1,1
+19,Jek Tono Porkins,male,unknown,180,110,26,Bestine IV,Human,1,1
+20,Yoda,male,896BBY,66,17,28,unknown,Yoda's species,0,0
+21,Palpatine,male,82BBY,170,75,8,Naboo,Human,0,0
+22,Boba Fett,male,31.5BBY,183,78.2,10,Kamino,Human,1,1
+23,IG-88,none,15BBY,200,140,28,unknown,Droid,0,0
+24,Bossk,male,53BBY,190,113,29,Trandosha,Trandoshan,0,0
+25,Lando Calrissian,male,31BBY,177,79,30,Socorro,Human,1,1
+26,Lobot,male,37BBY,175,79,6,Bespin,Human,0,0
+27,Ackbar,male,41BBY,180,83,31,Mon Cala,Mon Calamari,0,0
+28,Mon Mothma,female,48BBY,150,unknown,32,Chandrila,Human,0,0
+29,Arvel Crynyd,male,unknown,unknown,unknown,28,unknown,Human,1,1
+30,Wicket Systri Warrick,male,8BBY,88,20,7,Endor,Ewok,0,0
+31,Nien Nunb,male,unknown,160,68,33,Sullust,Sullustan,1,1
+32,Qui-Gon Jinn,male,92BBY,193,89,28,unknown,Human,0,0
+33,Nute Gunray,male,unknown,191,90,18,Cato Neimoidia,Neimodian,0,0
+34,Finis Valorum,male,91BBY,170,unknown,9,Coruscant,Human,0,0
+35,Padmé Amidala,female,46BBY,185,45,8,Naboo,Human,1,3
+36,Jar Jar Binks,male,52BBY,196,66,8,Naboo,Gungan,0,0
+37,Roos Tarpals,male,unknown,224,82,8,Naboo,Gungan,0,0
+38,Rugor Nass,male,unknown,206,unknown,8,Naboo,Gungan,0,0
+39,Ric Olié,male,unknown,183,unknown,8,Naboo,Human,1,1
+40,Watto,male,unknown,137,unknown,34,Toydaria,Toydarian,0,0
+41,Sebulba,male,unknown,112,40,35,Malastare,Dug,0,0
+42,Quarsh Panaka,male,62BBY,183,unknown,8,Naboo,Human,0,0
+43,Shmi Skywalker,female,72BBY,163,unknown,1,Tatooine,Human,0,0
+44,Darth Maul,male,54BBY,175,80,36,Dathomir,Zabrak,1,1
+45,Bib Fortuna,male,unknown,180,unknown,37,Ryloth,Twi'lek,0,0
+46,Ayla Secura,female,48BBY,178,55,37,Ryloth,Twi'lek,0,0
+47,Ratts Tyerel,male,unknown,79,15,38,Aleen Minor,Aleena,0,0
+48,Dud Bolt,male,unknown,94,45,39,Vulpter,Vulptereen,0,0
+49,Gasgano,male,unknown,122,unknown,40,Troiken,Xexto,0,0
+50,Ben Quadinaros,male,unknown,163,65,41,Tund,Toong,0,0
+51,Mace Windu,male,72BBY,188,84,42,Haruun Kal,Human,0,0
+52,Ki-Adi-Mundi,male,92BBY,198,82,43,Cerea,Cerean,0,0
+53,Kit Fisto,male,unknown,196,87,44,Glee Anselm,Nautolan,0,0
+54,Eeth Koth,male,unknown,171,unknown,45,Iridonia,Zabrak,0,0
+55,Adi Gallia,female,unknown,184,50,9,Coruscant,Tholothian,0,0
+56,Saesee Tiin,male,unknown,188,unknown,47,Iktotch,Iktotchi,0,0
+57,Yarael Poof,male,unknown,264,unknown,48,Quermia,Quermian,0,0
+58,Plo Koon,male,22BBY,188,80,49,Dorin,Kel Dor,1,1
+59,Mas Amedda,male,unknown,196,unknown,50,Champala,Chagrian,0,0
+60,Gregar Typho,male,unknown,185,85,8,Naboo,Human,1,1
+61,Cordé,female,unknown,157,unknown,8,Naboo,Human,0,0
+62,Cliegg Lars,male,82BBY,183,unknown,1,Tatooine,Human,0,0
+63,Poggle the Lesser,male,unknown,183,80,11,Geonosis,Geonosian,0,0
+64,Luminara Unduli,female,58BBY,170,56.2,51,Mirial,Mirialan,0,0
+65,Barriss Offee,female,40BBY,166,50,51,Mirial,Mirialan,0,0
+66,Dormé,female,unknown,165,unknown,8,Naboo,Human,0,0
+67,Dooku,male,102BBY,193,80,52,Serenno,Human,0,0
+68,Bail Prestor Organa,male,67BBY,191,unknown,2,Alderaan,Human,0,0
+69,Jango Fett,male,66BBY,183,79,53,Concord Dawn,Human,0,0
+70,Zam Wesell,female,unknown,168,55,54,Zolan,Clawdite,0,0
+71,Dexter Jettster,male,unknown,198,102,55,Ojom,Besalisk,0,0
+72,Lama Su,male,unknown,229,88,10,Kamino,Kaminoan,0,0
+73,Taun We,female,unknown,213,unknown,10,Kamino,Kaminoan,0,0
+74,Jocasta Nu,female,unknown,167,unknown,9,Coruscant,Human,0,0
+75,R4-P17,female,unknown,96,unknown,28,unknown,Human,0,0
+76,Wat Tambor,male,unknown,193,48,56,Skako,Skakoan,0,0
+77,San Hill,male,unknown,191,unknown,57,Muunilinst,Muun,0,0
+78,Shaak Ti,female,unknown,178,57,58,Shili,Togruta,0,0
+79,Grievous,male,unknown,216,159,59,Kalee,Kaleesh,1,1
+80,Tarfful,male,unknown,234,136,14,Kashyyyk,Wookie,0,0
+81,Raymus Antilles,male,unknown,188,79,2,Alderaan,Human,0,0
+82,Sly Moore,female,unknown,178,48,60,Umbara,Human,0,0
+83,Tion Medon,male,unknown,206,80,12,Utapau,Pau'an,0,0
